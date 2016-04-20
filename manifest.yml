@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: stage1.mybluemix.net
+  name: TestAppName1212
+  host: TestAppName1212
+  disk_quota: 1024M
